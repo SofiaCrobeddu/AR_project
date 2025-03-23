@@ -20,5 +20,5 @@ The aim of this project was to simulate *Coconut game* using Unity3D. The progra
   - - **Scenes**: this repository contains the scene of the AR version of the game (*SampleScene.unity*).
   - `Sofia_Noemi_Crobeddu_BIOMETRICS_noAR.sln`: it is the principal file that is opened inside Unity3D and the core of the game itself. 
   - `Images target project.pdf`: contains the Vuforia images used in the game.
-
+- `Sofia_Noemi_Crobeddu_noAR_AR_report.pdf`: contains the report of the project.
 ### Note: in this GitHub reporitory, there are just some of the files necessary to run the two versions of the game. Due to memory limitations of GitHub, it was not possible to load all the files. If interested, contact the email written above. Thanks!
